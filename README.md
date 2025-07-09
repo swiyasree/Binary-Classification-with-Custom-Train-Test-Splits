@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ipkh1nH-)
+This notebook demonstrates a binary classification workflow using a custom train-test split strategy. It selects the first 70 samples from Class 0 and the first 140 samples from Class 1 for training, with the remaining samples reserved for testing. It likely involves preprocessing, visualization, and evaluating model performance on imbalanced or structured datasets.
